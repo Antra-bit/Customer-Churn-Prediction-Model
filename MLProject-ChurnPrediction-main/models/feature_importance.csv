@@ -1,0 +1,55 @@
+feature,importance
+num__tenure,1.6405693032865645
+cat__tenure_group_61-72,1.2151128319234592
+cat__tenure_group_13-24,0.9063451368743776
+cat__tenure_group_1-12,0.8611283870818907
+cat__Contract_Two year,0.8187866032281811
+cat__tenure_group_49-60,0.7592180111635465
+num__MonthlyCharges,0.7223920418677623
+cat__InternetService_Fiber optic,0.7115441834437105
+cat__Contract_Month-to-month,0.7094441831110666
+cat__tenure_group_25-36,0.6317366175359195
+cat__InternetService_DSL,0.6312115067734828
+cat__tenure_group_37-48,0.27979800949121425
+cat__PaperlessBilling_No,0.24643977479746706
+cat__OnlineSecurity_No,0.24256954711664494
+cat__PaymentMethod_Electronic check,0.24224864346322722
+cat__MultipleLines_No,0.22597950197190927
+num__num_services,0.2255831553419615
+cat__InternetService_No,0.22541396558419574
+cat__OnlineBackup_No internet service,0.22541396558419574
+cat__OnlineSecurity_No internet service,0.22541396558419574
+cat__StreamingMovies_No internet service,0.22541396558419574
+cat__StreamingTV_No internet service,0.22541396558419574
+cat__DeviceProtection_No internet service,0.22541396558419574
+cat__TechSupport_No internet service,0.22541396558419574
+cat__StreamingMovies_Yes,0.2217392433100152
+cat__StreamingTV_Yes,0.21031091153424436
+cat__TechSupport_No,0.20657331459009112
+cat__Dependents_Yes,0.17739658548498072
+cat__MultipleLines_Yes,0.17646256944499816
+num__avg_monthly_spend,0.16551220449021617
+cat__OnlineSecurity_Yes,0.16223687044641255
+cat__SeniorCitizen_0,0.15792047849217225
+cat__PaymentMethod_Bank transfer (automatic),0.1470408925343967
+cat__StreamingMovies_No,0.14140656663978973
+cat__StreamingTV_No,0.12997823486402177
+cat__OnlineBackup_No,0.12687192038751877
+cat__TechSupport_Yes,0.12624063791986823
+cat__PaymentMethod_Credit card (automatic),0.1240654559891723
+cat__PaymentMethod_Mailed check,0.11622358385362874
+cat__PaperlessBilling_Yes,0.10135848588352755
+cat__PhoneService_No,0.09556435638705904
+cat__MultipleLines_No phone service,0.09556435638705904
+num__TotalCharges,0.09536647450952031
+cat__Partner_No,0.09338786027246533
+cat__gender_Female,0.09114208707010739
+cat__DeviceProtection_No,0.0576081361787381
+cat__gender_Male,0.05393920184385809
+cat__Partner_Yes,0.05169342864151277
+cat__PhoneService_Yes,0.049516932526903805
+cat__OnlineBackup_Yes,0.046539243717290305
+cat__Contract_One year,0.03573886879686294
+cat__Dependents_No,0.032315296571012786
+cat__DeviceProtection_Yes,0.022724540491487675
+cat__SeniorCitizen_1,0.012839189578202759
